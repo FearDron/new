@@ -1,2 +1,2 @@
-print("new select")
-print("old select")
+print("new select;")
+print("old select;")
